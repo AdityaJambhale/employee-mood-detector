@@ -4,7 +4,7 @@ This project leverages **machine learning and deep learning** to detect employee
 
 ---
 
-## 🚀 Features
+## Features
 
 ### 1. Text-Based Emotion Detection
 - Takes user input (like a message or comment).
