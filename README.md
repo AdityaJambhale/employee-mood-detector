@@ -1,5 +1,4 @@
-# Employee Mood Detection System
-
+# Hybrid AI System for Mood Detection from Text & Facial Cues
 This project leverages **machine learning and deep learning** to detect employee moods using **text inputs** and **facial expressions**, enabling proactive support and task alignment based on emotional states.
 
 ---
